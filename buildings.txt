@@ -1,0 +1,4 @@
+0;aslůdkfjaslůdfjaslůk;yes;2015-12-10
+1;Kura;no;2024-11-11
+2;yay;yes;2001-11-09
+3;yay^2;yes;2007-11-09
